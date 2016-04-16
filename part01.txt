@@ -1,0 +1,7 @@
+####part 1
+	首先是PHP的准备部分，安装apache php 和 mysql
+	给个链接：http://www.cnblogs.com/pharen/archive/2012/02/06/2340628.html
+	这里详细的教了，忘记了可以看看。
+	整合3个软件，要知道apache是一个web服务器软件，让apache支持解析php文件，就得配置
+	apache的conf目录下的httpd.conf文件。
+	还得在php中配置文件，上面的网址中都有介绍。
